@@ -257,8 +257,8 @@ function App() {
         )}
 
         <footer className="footer">
-          <a href="https://instagram.com/berkindev" target="_blank" rel="noopener noreferrer">
-            Coded by @berkindev
+          <a href="https://instagram.com/overclocked_dev" target="_blank" rel="noopener noreferrer">
+            Coded by Soumya @overclocked_dev
           </a>
         </footer>
       </div>
