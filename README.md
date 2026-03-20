@@ -9,7 +9,7 @@ Just strong passwords.
 
 ## Live Demo
 
-https://password-generator-seven-zeta.vercel.app/
+[https://password-gen-fawn.vercel.app/]
 
 ---
 
